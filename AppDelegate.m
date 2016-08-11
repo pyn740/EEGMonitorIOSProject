@@ -10,7 +10,6 @@
 #import "ApplicationInfo.h"
 
 @interface AppDelegate ()
-
 @end
 
 @implementation AppDelegate
